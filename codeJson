@@ -4,6 +4,7 @@
          {
            "name":"小趣",
            "code":"1",
+           "BundleID":"",
            "break":true     
          }
      ]
