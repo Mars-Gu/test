@@ -4,7 +4,7 @@
          {
            "name":"小趣",
            "code":"1",
-           "BundleID":"cn.com.xiaoqu.app.xq",
+           "BundleID":"com.kz.KZBaseKit",
            "break":true     
          }
      ]
