@@ -3,7 +3,7 @@
 "data":[
          {
            "name":"小趣",
-           "code":"1"
+           "code":"1",
            "break":true     
          }
      ]
